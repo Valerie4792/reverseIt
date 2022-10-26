@@ -13,12 +13,12 @@ while (playAgain)
 {
     //output asking user to enter a four digit number
     Console.WriteLine("Please enter a four digit number to see it reversed");
-    validNumber = false;
+    validNumber = true;
 
-    while (!validNumber)
+    while (validNumber)
     {
         validDigits = int.TryParse(Console.ReadLine(), out number);
-        for (int i = 0; i <= 3; i++)
+        for (int i = 0; i <= 4; i++)
         {
             countNum++;
         }
@@ -49,6 +49,7 @@ while (playAgain)
             number = number / 10;
             reversedNumber = (reversedNumber * 10) + reversed;
             Console.Write(reversed);
+            
 
 
         }
