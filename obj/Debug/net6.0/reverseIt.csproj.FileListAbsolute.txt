@@ -1,0 +1,5 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/reverseIt/reverseIt/obj/Debug/net6.0/reverseIt.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/reverseIt/reverseIt/obj/Debug/net6.0/reverseIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/reverseIt/reverseIt/obj/Debug/net6.0/reverseIt.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/reverseIt/reverseIt/obj/Debug/net6.0/reverseIt.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/reverseIt/reverseIt/obj/Debug/net6.0/reverseIt.csproj.CoreCompileInputs.cache
