@@ -7,7 +7,7 @@ bool validNumber;
 bool validDigits;
 int countNum = 0;
 
-Console.WriteLine("Let's play a game where you type in a 4 digit number and I reverse that number for you!")
+Console.WriteLine("Let's play a game where you type in a 4 digit number and I reverse that number for you!");
 
 while (playAgain)
 {
@@ -32,9 +32,10 @@ while (playAgain)
             validDigits = true;
             validNumber = true;
         }
+        ReversedNumber();
     }
 
- ReversedNumber();
+ 
     //Establish a Function that we are setting to void
     void ReversedNumber()
 
